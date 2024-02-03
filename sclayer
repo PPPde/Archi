@@ -1,0 +1,6 @@
+var chain
+if( chain is modular 
+  then (
+    buy(chain)
+    )
+  )
